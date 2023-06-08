@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="BotonInicio">Inicio</string>
+    <string name="BotonVolver">Volver al inicio</string>
+    <string name="Precentacion">Bienvenid@</string>
+    <string name="SigPregunta">Siguiente</string>
+    <string name="b">   </string>
+    <string name="Top">En este apartado contendra los mejores resultados:</string>
+    <string name="InTop">- Sin Puntaje capturado.</string>
+
+    <string name="ERROR">Error</string>
+    <string name="Sentimos">Hemos tenido problemas al capturar tu</string>
+    <string name="Sentimos2">puntuacion, favor de intentar mas tarde.</string>
+
+
+
+    <string name="P1">¿Cuál es el planeta más cercano al Sol?</string>
+    <string name="R1P1">Urano</string>
+    <string name="R2P1">Saturno</string>
+    <string name="R3P1">Mercurio</string>
+
+    <string name="P2">¿Cuál es la estrella más cercana a la Tierra?</string>
+    <string name="R1P2">Alfa centauri</string>
+    <string name="R2P2">Alfa tauri</string>
+    <string name="R3P2">Neon</string>
+
+    <string name="P3">¿Qué es un cometa?</string>
+    <string name="R1P3">Una piedrita que va volando</string>
+    <string name="R2P3">una gran masa de rocas con estelas</string>
+    <string name="R3P3">Es un cuerpo celeste compuesto principalmente por hielo, polvo y rocas.</string>
+
+    <string name="P4">¿Cuál es el planeta más cercano al Sol?</string>
+    <string name="R1P4">Urano</string>
+    <string name="R2P4">Saturno</string>
+    <string name="R3P4">Mercurio</string>
+
+    <string name="Felicidades">Felicidades</string>
+    <string name="Felicidades2">Acertaste la respuesta, sigue asi</string>
+
+    <string name="OU">Oh! Oh!</string>
+    <string name="OU2">Lo siento, pero esa no es la respuesta correcta, sigue estudiando.</string>
+
+
+</resources>
